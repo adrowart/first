@@ -1,2 +1,2 @@
 # first
-learning
+stared to know about git.
